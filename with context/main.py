@@ -4,7 +4,7 @@ from ChatGPT import gpt
 import sqlite3
 import threading
     
-TOKEN = 'YOUR_API_KEY'
+TOKEN = '6972660349:AAE968vbA5JWUoMoUvqx6Xu0SSjQ-W5aGg8'
 bot = Bot(TOKEN)            
 dp = Dispatcher(bot)
 
