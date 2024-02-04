@@ -3,7 +3,7 @@ import sqlite3
 import re
 import requests
 
-TOKEN = 'YOUR_BOT_API_KEY'                            # Вставляем свои токены от бота и от чат гпт
+TOKEN = '6972660349:AAE968vbA5JWUoMoUvqx6Xu0SSjQ-W5aGg8'                            # Вставляем свои токены от бота и от чат гпт
 client = OpenAI(api_key='YOUR_OPENAI_API_KEY')
 
 def gpt(text: str, id: int, m_id: int):
