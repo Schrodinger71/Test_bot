@@ -4,7 +4,7 @@ import re
 import requests
 
 TOKEN = '6972660349:AAE968vbA5JWUoMoUvqx6Xu0SSjQ-W5aGg8'                            # Вставляем свои токены от бота и от чат гпт
-client = OpenAI(api_key='YOUR_OPENAI_API_KEY')
+client = OpenAI(api_key='sk=m2YY0SNAfAwA0XNPhPtHT3BlbkFJw8HdE01D3Qtg2cfEIvYE')
 
 def gpt(text: str, id: int, m_id: int):
     try:
