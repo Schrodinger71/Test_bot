@@ -2,7 +2,7 @@ from aiogram import Bot, Dispatcher, executor, types
 from aiogram.types import Message
 from ChatGPT import gpt
     
-TOKEN = 'YOUR_TOKEN'        #Токен телеграм бота
+TOKEN = '6972660349:AAE968vbA5JWUoMoUvqx6Xu0SSjQ-W5aGg8'        #Токен телеграм бота
 bot = Bot(TOKEN)
 dp = Dispatcher(bot)
     
