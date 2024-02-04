@@ -1,2 +1,1 @@
-# Test_bot
-bbb
+Халявный ChatGPT через телеграм
